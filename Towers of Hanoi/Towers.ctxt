@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=source\ temp\ dest
+comment0.target=void\ Solve2DiscsTOH(java.util.Stack,\ java.util.Stack,\ java.util.Stack)
+comment1.params=nDiscs\ source\ temp\ dest
+comment1.target=int\ SolveTOH(int,\ java.util.Stack,\ java.util.Stack,\ java.util.Stack)
+comment2.params=
+comment2.target=void\ PrintStacks()
+comment3.params=s
+comment3.target=void\ PrintStack(java.util.Stack)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
